@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">recyclerview_actionview</string>
+    <string name="app_name">Petagram</string>
+    <string name="activity_name_segundaActividad">Mascotas favoritas</string>
 </resources>
